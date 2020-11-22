@@ -48,7 +48,9 @@
     border: 1px solid #c6c6c6;
     color: #222;
 }
-
+.search__buttonsHidden{
+    display: none !important;
+}
 /* Responsive Styling */
 
 @media only screen and (max-width: 390px) {
