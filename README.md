@@ -1,9 +1,6 @@
 ## Table of contents
 * [Setup](#setup)
-* [General info](#general-info)
-* [Idea Description](#Idea-Description)
-* [Use Case](#Use-Case)
-* [Project Deployed](#Project-Deployed)
+
 
 
 
