@@ -11,13 +11,13 @@ function App() {
       <Router>
         <Switch>
 
+        {/* Search Page */}
         <Route path="/search">
-            {/* Search Page */}
             <SearchPage />
-          </Route>
+        </Route>
 
+        {/* Home Page */}
           <Route path="/">
-            {/* Home Page */}
             <Home />
           </Route>
 
