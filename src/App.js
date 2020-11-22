@@ -1,10 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
+import Home from "./Home"
+
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
         <h2>Let`s build Google-Clone</h2>
+
+    {/* Home page */}
+
+    <Home />
+
+    {/* Result page */}
+
+
     </div>
   );
 }
