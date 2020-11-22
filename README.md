@@ -8,7 +8,7 @@
 To run this project, install it locally using npm:
 
 ```
-$ cd ERROR200-reactjs-Covid19-centers-and-info
+$ cd WWPHacks-ERROR200-google_clone
 $ npm install
 $ npm start
 ```
