@@ -9,7 +9,7 @@
 ## Setup
 To run this project, install it locally using npm:
 
-* First you have to create Google Custom Search API key and add on the keys.js file inside the src folder
+* First you have to create Google Custom Search API key and add on the keys.js file inside the src folder(I am using free API which provide 100 queries per day)
 
 ```
 $ cd WWPHacks-ERROR200-google_clone
